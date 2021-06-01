@@ -1,5 +1,5 @@
 # from project
-*.cvs
+*.csv
 *.pkl
 
 # Byte-compiled / optimized / DLL files
