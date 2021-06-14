@@ -31,7 +31,8 @@ My strategy to solve this challenge was:
 
 **Step 05. Data Preparation:**
 
-**Step 06. Feature Selection:**
+**Step 06. Feature Selection:** Feature importance result, using RandomForestClassifier
+![enter image description here](https://github.com/cidosjr/health-insurance-cross-sell-prediction/blob/main/img/feature_importance.png?raw=true)
 
 **Step 07. Machine Learning Modelling:**
 
